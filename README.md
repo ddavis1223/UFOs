@@ -7,6 +7,9 @@ The purpose of this project is to provide a more in-depth analysis of UFO sighti
 
 ## Results
 The user is able to enter in information regarding the date, city, state, county, and shape to gather information about UFO sightings.
+
+![Filter Search](https://user-images.githubusercontent.com/97000059/159188317-051e19c2-a145-41dd-b5b6-d34259f8f416.png)
+
  
 ## Summary
 As I process the UFO sightings design, one drawback that I encountered is the color because it seems so gloomy.
